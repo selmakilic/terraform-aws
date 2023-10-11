@@ -1,0 +1,31 @@
+snowblal on premistekini aws e gotulurulmsi toplu olarak clous=dta gecmmizi saglar
+AWS GLUE "VERI AYIKLAMA "
+AWS STORAGE GATEWAY ON PREMIS TEN AWS YE AKTARMADIR
+ON PREMISTEN CLOUDA FIBER KABLOLAR ILE BAGLANTISI AWS DIRECT CONNECTION
+ARTIFACT "RAPORLANDIRMA SERVIZLERIN BILGISI"
+CLOUDHSM =
+CLOUD9=AWS KENDI ICINDE OLUSTURDUGU .,ZUM 
+ELASTICBEAN STALK =DEVELOPER EC2 S3 CLOUWATCH LOAD BALENCER UYGULAMA DAGITIMI HERSEYI KENDI YAPAR PRATIK ALT YAPI HAZIR UYGULAMA CALISTIRILIR SADECE
+NACL =VPC KONUSU SUBNET FIRWALL 
+athena ve kinesis=serverless aws kendi olusturur alt yappiyi s3 ten bilgi cekme s3 ile ilgili veri analizi ile ilgilidir
+amazon inspector = aws servislerin  guvenlik securty acuklsrini  eksikleirni rapor eder 
+amazon macie =hassas verileri analiz eder korumak kesfetmek gizlilik hizmetidir
+aws shield=saldiralara karsi guvenlik duvari paralidir 
+aws  storage gateway =sirket ici verilerin clouda baglanasini saglar on premisten clouda bilgi aktarimi saglar
+aws direct connect kablolu on premisten clouda baglantiyi yapar 
+vpn ise internet ve sifreli olacak sekilde on premisten cloude baglani yapilir
+AWS KMS = aws de guvelik olusturmak icin KMS ILE OLUSTURULUR SIFRELEMEDE KMS KULLNAILIR 
+
+ LAMBDA =SERVERLESS ALT YAPIYI AWS KENDISI OLUSTURUR  VE TRIGGER TETIKLEYICI OZELLIGI ONEMLIDIR
+AWS SHIELD =DDOS PROTECTION
+AWS ORGANIZATION =HIZLI HESAP OLSTURMA VB ISLEMLER
+MAKINE OGRENMESI DOGAL DIL =AWS QUICKSIGHT
+AWS LIGHTSAIL=SANAL SUNUCU 
+AWS ACCELARTOR  HIZLANDIRICI
+AWS ARTIFACT =BIR RAPOR LAZIMSA BU KULLANILIR MUSTERILERIN AWS UYUMLULUK BELGE;ERI SUNMASI ANLASMA VE ERISIM 
+SCALE UP SCALE DOWN =SCALABILITY
+AGILITY =HIZLI DEGISIKLK 
+LIGHTSAIL =HAZIR SERVER 
+AWS BATCH =BILGIDAYAR SERVISIDIR
+AWS KMS=KEY MANAGEMANT SERVISE VAR OLANLARI SIFRELEME 
+AWS POSWORKS=CHEF AND PUPPET ALT YAPI OLUSTURMA YONETME SERVISI
